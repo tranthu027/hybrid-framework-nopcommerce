@@ -1,0 +1,10 @@
+/com/
+/commons/
+/pageObject/
+/pageUIs/
+/run_NopCommerce_All.xml
+/log4j.xml
+/reportConfig/
+/run_NopCommerce_Admin.xml
+/run_NopCommerce_User.xml
+/utilities/

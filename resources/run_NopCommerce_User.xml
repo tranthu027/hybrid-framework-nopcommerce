@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce User" parallel="tests" thread-count="3">
+<parameter name="URL" value="https://demo.nopcommerce.com/" />
+
+<listeners>
+	        <listener class-name="reportConfig.ReportNGListener"/>
+ 	       <listener class-name="org.uncommons.reportng.HTMLReporter"/>  
+ 	       <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>  
+ 	        <listener class-name="reportConfig.MethodListener"/> 
+ 	       <listener class-name="reportConfig.ExtentTestListener"/>  
+</listeners> 
+<test name="Run on FIREFOX">
+  <parameter name="browser" value="FIREFOX" />   
+    <classes>
+    <class name="com.NopCommerce.common.Common_01_Login"/> 
+    <class name="com.NopCommerce.User.MyAccount_Checked"/>
+    <class name="com.NopCommerce.User.Registered_Login_In_The_System"/>
+    <class name="com.NopCommerce.User.Search_And_Advanced_Search"/>
+    <class name="com.NopCommerce.User.Display_Sort_Display_Paging"/>
+    <class name="com.NopCommerce.User.ProductsList_Wishlist_Compare_Recently_Viewed_Product"/>
+    <class name="com.NopCommerce.User.Order_Product"/>
+    </classes>
+  </test>
+  
+   <test name="Run on CHROME">
+  <parameter name="browser" value="CHROME" />   
+    <classes>
+     <class name="com.NopCommerce.common.Common_01_Login"/>   
+    <class name="com.NopCommerce.User.MyAccount_Checked"/>
+    <class name="com.NopCommerce.User.Registered_Login_In_The_System"/>
+    <class name="com.NopCommerce.User.Search_And_Advanced_Search"/>
+    <class name="com.NopCommerce.User.Display_Sort_Display_Paging"/>
+    <class name="com.NopCommerce.User.ProductsList_Wishlist_Compare_Recently_Viewed_Product"/>
+    <class name="com.NopCommerce.User.Order_Product"/>
+    </classes>
+  </test>
+
+   <test name="Run on EDGE CHROMIUM">
+  <parameter name="browser" value="EDGE_CHROMIUM" />   
+    <classes>
+    <class name="com.NopCommerce.common.Common_01_Login"/> 
+    <class name="com.NopCommerce.User.MyAccount_Checked"/> 
+    <class name="com.NopCommerce.User.Registered_Login_In_The_System"/>
+    <class name="com.NopCommerce.User.Search_And_Advanced_Search"/>
+    <class name="com.NopCommerce.User.Display_Sort_Display_Paging"/>
+    <class name="com.NopCommerce.User.ProductsList_Wishlist_Compare_Recently_Viewed_Product"/>
+    <class name="com.NopCommerce.User.Order_Product"/>
+    </classes>
+  </test>
+
+</suite>

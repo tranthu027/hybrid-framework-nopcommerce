@@ -1,0 +1,828 @@
+[INFO ] [2021-11-29 01:17:22,581] ------ END delete file in folder -----
+[INFO ] [2021-11-29 01:17:22,581] ------ END delete file in folder -----
+[INFO ] [2021-11-29 01:17:22,581] ------ END delete file in folder -----
+[INFO ] [2021-11-29 01:17:22,592] Pre-Condition - Step 01: Open browser 'CHROME' and nagivate to 'https://admin-demo.nopcommerce.com'
+[INFO ] [2021-11-29 01:17:22,592] Pre-Condition - Step 01: Open browser 'FIREFOX' and nagivate to 'https://admin-demo.nopcommerce.com'
+[INFO ] [2021-11-29 01:17:22,592] Pre-Condition - Step 01: Open browser 'EDGE_CHROMIUM' and nagivate to 'https://admin-demo.nopcommerce.com'
+[INFO ] [2021-11-29 01:17:28,064] Pre-Condition - Step 01: Enter email To Email textbox
+[INFO ] [2021-11-29 01:17:28,259] Pre-Condition - Step 02: Enter password To Password textbox
+[INFO ] [2021-11-29 01:17:28,380] Pre-Condition - Step 03: Click to Log in button
+[INFO ] [2021-11-29 01:17:29,321] Pre-Condition - Step 01: Enter email To Email textbox
+[INFO ] [2021-11-29 01:17:29,500] Pre-Condition - Step 02: Enter password To Password textbox
+[INFO ] [2021-11-29 01:17:29,624] Pre-Condition - Step 03: Click to Log in button
+[INFO ] [2021-11-29 01:17:30,186] Pre-Condition - Step 01: Enter email To Email textbox
+[INFO ] [2021-11-29 01:17:30,270] Pre-Condition - Step 02: Enter password To Password textbox
+[INFO ] [2021-11-29 01:17:30,333] Pre-Condition - Step 03: Click to Log in button
+[INFO ] [2021-11-29 01:17:32,776] Pre-Condition - Step 04: Open menu Customers/Customers
+[INFO ] [2021-11-29 01:17:33,332]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:33,568] Pre-Condition - Step 04: Open menu Customers/Customers
+[INFO ] [2021-11-29 01:17:34,129] Pre-Condition - Step 04: Open menu Customers/Customers
+[INFO ] [2021-11-29 01:17:34,453] Pre-Condition - Step 05: Verify Product Search Page is displayed
+[INFO ] [2021-11-29 01:17:34,653]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:34,977]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:35,042]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:35,050] ------------ TC_01_Creat_New_Customers ------------
+[INFO ] [2021-11-29 01:17:35,060]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:35,060] TC_01_Customers: Step 02: Click To Add new Button
+[INFO ] [2021-11-29 01:17:35,169]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:35,256] Pre-Condition - Step 05: Verify Product Search Page is displayed
+[INFO ] [2021-11-29 01:17:35,271]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,007] Pre-Condition - Step 05: Verify Product Search Page is displayed
+[INFO ] [2021-11-29 01:17:36,042] TC_01_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:17:36,053]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,123] TC_01_Customers: Step 04: Enter customer's email with value: scottie.nicolas@hotmail.com
+[INFO ] [2021-11-29 01:17:36,134]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,360] TC_01_Customers: Step 05: Enter password with value: da0n9i1lnn
+[INFO ] [2021-11-29 01:17:36,524]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,526] TC_01_Customers: Step 06: Enter customer's firstname with value: Josphine
+[INFO ] [2021-11-29 01:17:36,526] ------------ TC_01_Creat_New_Customers ------------
+[INFO ] [2021-11-29 01:17:36,527]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,596]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,597] ------------ TC_01_Creat_New_Customers ------------
+[INFO ] [2021-11-29 01:17:36,607]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:36,607] TC_01_Customers: Step 02: Click To Add new Button
+[INFO ] [2021-11-29 01:17:36,665] TC_01_Customers: Step 07: Enter customer's lastname with value: Nienow
+[INFO ] [2021-11-29 01:17:36,788] TC_01_Customers: Step 08: Enter customer's birthday with value: 11/24/1999
+[INFO ] [2021-11-29 01:17:36,937] TC_01_Customers: Step 09: Enter customer's company with value: Hammes, Gusikowski and Fadel
+[INFO ] [2021-11-29 01:17:37,149] TC_01_Customers: Step 10: Add comment
+[INFO ] [2021-11-29 01:17:37,297] TC_01_Customers: Step 11: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:37,652] TC_01_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:17:37,662]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:37,717] TC_01_Customers: Step 04: Enter customer's email with value: noel.oconner@hotmail.com
+[INFO ] [2021-11-29 01:17:37,727]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:37,874] TC_01_Customers: Step 05: Enter password with value: hmmg6mky
+[INFO ] [2021-11-29 01:17:37,986] TC_01_Customers: Step 06: Enter customer's firstname with value: Elyse
+[INFO ] [2021-11-29 01:17:38,071]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:38,071] TC_01_Customers: Step 02: Click To Add new Button
+[INFO ] [2021-11-29 01:17:38,096] TC_01_Customers: Step 07: Enter customer's lastname with value: Daniel
+[INFO ] [2021-11-29 01:17:38,207] TC_01_Customers: Step 08: Enter customer's birthday with value: 11/24/1999
+[INFO ] [2021-11-29 01:17:38,322] TC_01_Customers: Step 09: Enter customer's company with value: Haley-Schuppe
+[INFO ] [2021-11-29 01:17:38,446] TC_01_Customers: Step 10: Add comment
+[INFO ] [2021-11-29 01:17:38,581] TC_01_Customers: Step 11: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:38,744] TC_01_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:17:39,307]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:39,352] TC_01_Customers: Step 04: Enter customer's email with value: irving.emard@yahoo.com
+[INFO ] [2021-11-29 01:17:39,362]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:39,396] TC_01_Customers: Step 12: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:17:39,430] TC_01_Customers: Step 05: Enter password with value: y36os50g1
+[INFO ] [2021-11-29 01:17:39,489] TC_01_Customers: Step 06: Enter customer's firstname with value: Filomena
+[INFO ] [2021-11-29 01:17:39,546] TC_01_Customers: Step 07: Enter customer's lastname with value: Carter
+[INFO ] [2021-11-29 01:17:39,601] TC_01_Customers: Step 08: Enter customer's birthday with value: 11/24/1999
+[INFO ] [2021-11-29 01:17:39,660] TC_01_Customers: Step 09: Enter customer's company with value: Rosenbaum, Conroy and Hessel
+[INFO ] [2021-11-29 01:17:39,750] TC_01_Customers: Step 10: Add comment
+[INFO ] [2021-11-29 01:17:39,820] TC_01_Customers: Step 11: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:40,713] TC_01_Customers: Step 12: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:17:41,572] TC_01_Customers: Step 13: Click to active radio button
+[INFO ] [2021-11-29 01:17:41,619] TC_01_Customers: Step 14: Click to male gender radio button
+[INFO ] [2021-11-29 01:17:42,100] TC_01_Customers: Step 12: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:17:42,877] TC_01_Customers: Step 13: Click to active radio button
+[INFO ] [2021-11-29 01:17:42,915] TC_01_Customers: Step 14: Click to male gender radio button
+[INFO ] [2021-11-29 01:17:44,439] TC_01_Customers: Step 13: Click to active radio button
+[INFO ] [2021-11-29 01:17:44,470] TC_01_Customers: Step 14: Click to male gender radio button
+[INFO ] [2021-11-29 01:17:44,714] TC_01_Customers: Step 15: Click To Add new Button
+[INFO ] [2021-11-29 01:17:46,015] TC_01_Customers: Step 15: Click To Add new Button
+[INFO ] [2021-11-29 01:17:46,848] TC_01_Customers: Step 16: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:17:46,960]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:46,960] TC_01_Customers: Step 17: Click To close alert bar
+[INFO ] [2021-11-29 01:17:47,037] TC_01_Customers: Step 16: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:17:47,061] TC_01_Customers: Step 18: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:17:47,521]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:47,521] TC_01_Customers: Step 17: Click To close alert bar
+[INFO ] [2021-11-29 01:17:47,587] TC_01_Customers: Step 18: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:17:47,729] TC_01_Customers: Step 15: Click To Add new Button
+[INFO ] [2021-11-29 01:17:48,100]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:48,108]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:48,769] TC_01_Customers: Step 16: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:17:48,872]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:48,872] TC_01_Customers: Step 17: Click To close alert bar
+[INFO ] [2021-11-29 01:17:49,295] TC_01_Customers: Step 19: Click to Search Button
+[INFO ] [2021-11-29 01:17:49,375] TC_01_Customers: Step 19: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:17:49,616] TC_01_Customers: Step 18: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:17:49,894]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:50,267] TC_01_Customers: Step 19: Click to Search Button
+[INFO ] [2021-11-29 01:17:50,346] TC_01_Customers: Step 19: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:17:50,869]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:51,163]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:52,982]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:53,058]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:53,061] ------------ TC_02_Search_Customers_With_Email ------------
+[INFO ] [2021-11-29 01:17:53,504] TC_01_Customers: Step 19: Click to Search Button
+[INFO ] [2021-11-29 01:17:53,770] TC_01_Customers: Step 19: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:17:53,922]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:53,968]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:53,969] ------------ TC_02_Search_Customers_With_Email ------------
+[INFO ] [2021-11-29 01:17:54,802]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:55,172]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:55,172] TC_02_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:17:55,226] TC_02_Customers: Step 02: Enter email with value: noel.oconner@hotmail.com
+[INFO ] [2021-11-29 01:17:55,320]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:55,320] TC_02_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:17:55,366] TC_02_Customers: Step 03: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:55,396] TC_02_Customers: Step 02: Enter email with value: scottie.nicolas@hotmail.com
+[INFO ] [2021-11-29 01:17:55,466] TC_02_Customers: Step 04: Click to Search Button
+[INFO ] [2021-11-29 01:17:55,538] TC_02_Customers: Step 03: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:55,549] TC_02_Customers: Step 05: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:17:55,625] TC_02_Customers: Step 04: Click to Search Button
+[INFO ] [2021-11-29 01:17:55,701] TC_02_Customers: Step 05: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:17:56,068]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:56,101]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:56,103] ------------ TC_03_Search_Customers_With_Firstname_And_Lastname ------------
+[INFO ] [2021-11-29 01:17:56,219]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:56,249]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:56,253] ------------ TC_03_Search_Customers_With_Firstname_And_Lastname ------------
+[INFO ] [2021-11-29 01:17:57,567]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:57,568] TC_03_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:17:57,575]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:57,575] TC_03_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:17:57,625] TC_03_Customers: Step 02: Enter firstname with value: Elyse
+[INFO ] [2021-11-29 01:17:57,631] TC_03_Customers: Step 02: Enter firstname with value: Josphine
+[INFO ] [2021-11-29 01:17:57,634]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:57,643]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:57,743] TC_03_Customers: Step 03: Enter lastname with value: Daniel
+[INFO ] [2021-11-29 01:17:57,746] TC_03_Customers: Step 03: Enter lastname with value: Nienow
+[INFO ] [2021-11-29 01:17:57,823]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:57,860]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:57,863] ------------ TC_02_Search_Customers_With_Email ------------
+[INFO ] [2021-11-29 01:17:57,881] TC_03_Customers: Step 04: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:57,904] TC_03_Customers: Step 04: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:17:58,000]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:58,000] TC_03_Customers: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:17:58,021]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:58,021] TC_03_Customers: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:17:58,073] TC_03_Customers: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:17:58,095] TC_03_Customers: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:17:58,590]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:58,614]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:58,618]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:58,620] ------------ TC_04_Search_Customers_With_Company_And_Role ------------
+[INFO ] [2021-11-29 01:17:58,653]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:17:58,654] ------------ TC_04_Search_Customers_With_Company_And_Role ------------
+[INFO ] [2021-11-29 01:18:00,044]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:00,044] TC_04_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:00,100] TC_04_Customers: Step 02: Enter company with value: Hammes, Gusikowski and Fadel
+[INFO ] [2021-11-29 01:18:00,158]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:00,158] TC_04_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:00,212] TC_04_Customers: Step 02: Enter company with value: Haley-Schuppe
+[INFO ] [2021-11-29 01:18:00,238] TC_04_Customers: Step 03: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:00,353] TC_04_Customers: Step 04: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:00,373] TC_04_Customers: Step 03: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:00,459] TC_04_Customers: Step 04: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:00,565]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:00,565] TC_02_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:00,605] TC_02_Customers: Step 02: Enter email with value: irving.emard@yahoo.com
+[INFO ] [2021-11-29 01:18:00,664] TC_02_Customers: Step 03: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:00,929] TC_02_Customers: Step 04: Click to Search Button
+[INFO ] [2021-11-29 01:18:01,195] TC_02_Customers: Step 05: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:01,623]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:01,623] TC_04_Customers: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:18:01,698] TC_04_Customers: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:01,720]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:01,745]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:01,747] ------------ TC_03_Search_Customers_With_Firstname_And_Lastname ------------
+[INFO ] [2021-11-29 01:18:02,219]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:02,246]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:02,247] ------------ TC_05_Search_Customers_With_Full_Data ------------
+[INFO ] [2021-11-29 01:18:02,550]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:02,550] TC_04_Customers: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:18:02,621] TC_04_Customers: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:03,140]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:03,166]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:03,167] ------------ TC_05_Search_Customers_With_Full_Data ------------
+[INFO ] [2021-11-29 01:18:03,295] TC_05_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:03,350] TC_05_Customers: Step 02: Enter email with value: noel.oconner@hotmail.com
+[INFO ] [2021-11-29 01:18:03,490] TC_05_Customers: Step 03: Enter firstname with value: Elyse
+[INFO ] [2021-11-29 01:18:03,685] TC_05_Customers: Step 04: Enter lastname with value: Daniel
+[INFO ] [2021-11-29 01:18:03,806] TC_05_Customers: Step 05: Select item in month dropdown with value: 11
+[INFO ] [2021-11-29 01:18:04,045] TC_05_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:04,103] TC_05_Customers: Step 02: Enter email with value: scottie.nicolas@hotmail.com
+[INFO ] [2021-11-29 01:18:04,246] TC_05_Customers: Step 03: Enter firstname with value: Josphine
+[INFO ] [2021-11-29 01:18:04,349] TC_05_Customers: Step 04: Enter lastname with value: Nienow
+[INFO ] [2021-11-29 01:18:04,477] TC_05_Customers: Step 05: Select item in month dropdown with value: 11
+[INFO ] [2021-11-29 01:18:05,506]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:05,506] TC_03_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:05,550] TC_03_Customers: Step 02: Enter firstname with value: Filomena
+[INFO ] [2021-11-29 01:18:05,560]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:05,608] TC_03_Customers: Step 03: Enter lastname with value: Carter
+[INFO ] [2021-11-29 01:18:05,654] TC_03_Customers: Step 04: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:05,877] TC_05_Customers: Step 06: Select item in day dropdown with value: 24
+[INFO ] [2021-11-29 01:18:05,920]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:05,921] TC_03_Customers: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:18:06,173] TC_03_Customers: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:06,549] TC_05_Customers: Step 06: Select item in day dropdown with value: 24
+[INFO ] [2021-11-29 01:18:06,692]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:06,714]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:06,716] ------------ TC_04_Search_Customers_With_Company_And_Role ------------
+[INFO ] [2021-11-29 01:18:07,942] TC_05_Customers: Step 07: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:08,028] TC_05_Customers: Step 08: Enter company with value: Haley-Schuppe
+[INFO ] [2021-11-29 01:18:08,151] TC_05_Customers: Step 09: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:08,160]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:08,617] TC_05_Customers: Step 07: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:08,703] TC_05_Customers: Step 08: Enter company with value: Hammes, Gusikowski and Fadel
+[INFO ] [2021-11-29 01:18:08,843] TC_05_Customers: Step 09: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:08,852]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:08,886]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:08,886] TC_04_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:08,926] TC_04_Customers: Step 02: Enter company with value: Rosenbaum, Conroy and Hessel
+[INFO ] [2021-11-29 01:18:08,988] TC_04_Customers: Step 03: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:09,250] TC_04_Customers: Step 04: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:09,306] TC_05_Customers: Step 10: Click to Search Button
+[INFO ] [2021-11-29 01:18:09,377] TC_05_Customers: Step 11: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:09,894]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:09,920]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:09,921] ------------ TC_06_Edit_Customersa ------------
+[INFO ] [2021-11-29 01:18:09,922] TC_06_Customers: Step 01: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:10,732] TC_06_Customers: Step 02: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:11,037] TC_05_Customers: Step 10: Click to Search Button
+[INFO ] [2021-11-29 01:18:11,139] TC_05_Customers: Step 11: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:11,337]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:11,337] TC_06_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:11,422] TC_06_Customers: Step 04: Enter customer's email with value: hector.buckridge@yahoo.com
+[INFO ] [2021-11-29 01:18:11,586]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:11,586] TC_04_Customers: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:18:11,662]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:11,689]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:11,691] ------------ TC_06_Edit_Customersa ------------
+[INFO ] [2021-11-29 01:18:11,691] TC_06_Customers: Step 01: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:11,847] TC_04_Customers: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:11,941]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:12,088] TC_06_Customers: Step 05: Enter customer's firstname with value: Hershel
+[INFO ] [2021-11-29 01:18:12,339] TC_06_Customers: Step 02: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:12,342] TC_06_Customers: Step 06: Enter customer's lastname with value: Zieme
+[INFO ] [2021-11-29 01:18:12,370]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:12,403]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:12,404] ------------ TC_05_Search_Customers_With_Full_Data ------------
+[INFO ] [2021-11-29 01:18:12,488] TC_06_Customers: Step 07: Enter customer's birthday with value: 12/25/1999
+[INFO ] [2021-11-29 01:18:12,615] TC_06_Customers: Step 08: Enter customer's company with value: Reilly-Sporer
+[INFO ] [2021-11-29 01:18:12,748] TC_06_Customers: Step 09: Add comment
+[INFO ] [2021-11-29 01:18:12,881] TC_06_Customers: Step 10: Click To Add new Button
+[INFO ] [2021-11-29 01:18:13,024]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:13,024] TC_06_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:13,075] TC_06_Customers: Step 04: Enter customer's email with value: yuette.bernier@hotmail.com
+[INFO ] [2021-11-29 01:18:13,595]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:13,831] TC_06_Customers: Step 05: Enter customer's firstname with value: Frederick
+[INFO ] [2021-11-29 01:18:14,050] TC_06_Customers: Step 06: Enter customer's lastname with value: Wiegand
+[INFO ] [2021-11-29 01:18:14,167] TC_05_Customers: Step 01: Expand search panel
+[INFO ] [2021-11-29 01:18:14,196] TC_06_Customers: Step 07: Enter customer's birthday with value: 12/25/1999
+[INFO ] [2021-11-29 01:18:14,217] TC_05_Customers: Step 02: Enter email with value: irving.emard@yahoo.com
+[INFO ] [2021-11-29 01:18:14,255] TC_05_Customers: Step 03: Enter firstname with value: Filomena
+[INFO ] [2021-11-29 01:18:14,306] TC_05_Customers: Step 04: Enter lastname with value: Carter
+[INFO ] [2021-11-29 01:18:14,358] TC_05_Customers: Step 05: Select item in month dropdown with value: 11
+[INFO ] [2021-11-29 01:18:14,365] TC_06_Customers: Step 08: Enter customer's company with value: Parisian-Johns
+[INFO ] [2021-11-29 01:18:14,407] TC_06_Customers: Step 11: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:18:14,467]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:14,468] TC_06_Customers: Step 12: Click To close alert bar
+[INFO ] [2021-11-29 01:18:14,534] TC_06_Customers: Step 09: Add comment
+[INFO ] [2021-11-29 01:18:14,541] TC_06_Customers: Step 13: Enter email with value: hector.buckridge@yahoo.com
+[INFO ] [2021-11-29 01:18:14,677] TC_06_Customers: Step 10: Click To Add new Button
+[INFO ] [2021-11-29 01:18:14,724] TC_06_Customers: Step 14: Enter firstname with value: Hershel
+[INFO ] [2021-11-29 01:18:14,881] TC_06_Customers: Step 15: Enter lastname with value: Zieme
+[INFO ] [2021-11-29 01:18:14,986] TC_06_Customers: Step 16: Select item in month dropdown with value: 12
+[INFO ] [2021-11-29 01:18:15,999] TC_06_Customers: Step 11: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:18:16,079]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:16,080] TC_06_Customers: Step 12: Click To close alert bar
+[INFO ] [2021-11-29 01:18:16,152] TC_06_Customers: Step 13: Enter email with value: yuette.bernier@hotmail.com
+[INFO ] [2021-11-29 01:18:16,368] TC_06_Customers: Step 14: Enter firstname with value: Frederick
+[INFO ] [2021-11-29 01:18:16,509] TC_06_Customers: Step 15: Enter lastname with value: Wiegand
+[INFO ] [2021-11-29 01:18:16,620] TC_06_Customers: Step 16: Select item in month dropdown with value: 12
+[INFO ] [2021-11-29 01:18:16,623] TC_05_Customers: Step 06: Select item in day dropdown with value: 24
+[INFO ] [2021-11-29 01:18:17,062] TC_06_Customers: Step 17: Select item in day dropdown with value: 25
+[INFO ] [2021-11-29 01:18:18,689] TC_06_Customers: Step 17: Select item in day dropdown with value: 25
+[INFO ] [2021-11-29 01:18:18,870] TC_05_Customers: Step 07: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:19,136] TC_05_Customers: Step 08: Enter company with value: Rosenbaum, Conroy and Hessel
+[INFO ] [2021-11-29 01:18:19,198] TC_05_Customers: Step 09: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:19,208]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:19,217] TC_06_Customers: Step 18: Enter company with value: Reilly-Sporer
+[INFO ] [2021-11-29 01:18:19,327] TC_06_Customers: Step 19: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:19,423] TC_06_Customers: Step 20: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:19,434]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:20,583] TC_06_Customers: Step 21: Click to Search Button
+[INFO ] [2021-11-29 01:18:20,660] TC_06_Customers: Step 22: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:20,753] TC_06_Customers: Step 18: Enter company with value: Parisian-Johns
+[INFO ] [2021-11-29 01:18:20,869] TC_06_Customers: Step 19: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:20,959] TC_06_Customers: Step 20: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:20,969]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:21,178]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:21,208]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:21,210] ------------ TC_07_Add_New_Address_In_Customer_Detail ------------
+[INFO ] [2021-11-29 01:18:21,210] TC_07_Customers: Step 01: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:21,567] TC_05_Customers: Step 10: Click to Search Button
+[INFO ] [2021-11-29 01:18:21,845] TC_05_Customers: Step 11: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:22,038] TC_07_Customers: Step 02: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:22,363]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:22,387]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:22,389] ------------ TC_06_Edit_Customersa ------------
+[INFO ] [2021-11-29 01:18:22,389] TC_06_Customers: Step 01: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:23,087] TC_06_Customers: Step 02: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:23,117] TC_06_Customers: Step 21: Click to Search Button
+[INFO ] [2021-11-29 01:18:23,178]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:23,178] TC_06_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:23,189] TC_06_Customers: Step 22: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:23,224] TC_06_Customers: Step 04: Enter customer's email with value: herb.bosco@gmail.com
+[INFO ] [2021-11-29 01:18:23,560]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:23,618]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:23,618] TC_07_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:23,681]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:23,681] TC_07_Customers: Step 04: Click To Add new address button
+[INFO ] [2021-11-29 01:18:23,706]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:23,730]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:23,731] ------------ TC_07_Add_New_Address_In_Customer_Detail ------------
+[INFO ] [2021-11-29 01:18:23,731] TC_07_Customers: Step 01: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:24,431] TC_07_Customers: Step 02: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:24,797]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:24,875] TC_07_Customers: Step 05: Enter customer's firstname with value: Elyse
+[INFO ] [2021-11-29 01:18:24,895] TC_06_Customers: Step 05: Enter customer's firstname with value: Roderick
+[INFO ] [2021-11-29 01:18:24,958] TC_06_Customers: Step 06: Enter customer's lastname with value: Mohr
+[INFO ] [2021-11-29 01:18:25,012] TC_06_Customers: Step 07: Enter customer's birthday with value: 12/25/1999
+[INFO ] [2021-11-29 01:18:25,067] TC_06_Customers: Step 08: Enter customer's company with value: Johnson, Nader and Roberts
+[INFO ] [2021-11-29 01:18:25,141] TC_06_Customers: Step 09: Add comment
+[INFO ] [2021-11-29 01:18:25,200] TC_06_Customers: Step 10: Click To Add new Button
+[INFO ] [2021-11-29 01:18:25,446]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:25,495]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:25,495] TC_07_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:25,556]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:25,556] TC_07_Customers: Step 04: Click To Add new address button
+[INFO ] [2021-11-29 01:18:26,129] TC_06_Customers: Step 11: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:18:26,216]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:26,216] TC_06_Customers: Step 12: Click To close alert bar
+[INFO ] [2021-11-29 01:18:26,951] TC_06_Customers: Step 13: Enter email with value: herb.bosco@gmail.com
+[INFO ] [2021-11-29 01:18:26,994] TC_07_Customers: Step 06: Enter customer's lastname with value: Daniel
+[INFO ] [2021-11-29 01:18:27,009] TC_06_Customers: Step 14: Enter firstname with value: Roderick
+[INFO ] [2021-11-29 01:18:27,065] TC_06_Customers: Step 15: Enter lastname with value: Mohr
+[INFO ] [2021-11-29 01:18:27,072] TC_07_Customers: Step 05: Enter customer's firstname with value: Josphine
+[INFO ] [2021-11-29 01:18:27,121] TC_06_Customers: Step 16: Select item in month dropdown with value: 12
+[INFO ] [2021-11-29 01:18:27,146] TC_07_Customers: Step 07: Enter customer's email with value: noel.oconner@hotmail.com
+[INFO ] [2021-11-29 01:18:27,278] TC_07_Customers: Step 08: Enter customer's company with value: Haley-Schuppe
+[INFO ] [2021-11-29 01:18:27,395] TC_07_Customers: Step 09: Select item in country dropdown with value: Viet Nam
+[INFO ] [2021-11-29 01:18:29,212] TC_07_Customers: Step 06: Enter customer's lastname with value: Nienow
+[INFO ] [2021-11-29 01:18:29,323] TC_07_Customers: Step 07: Enter customer's email with value: scottie.nicolas@hotmail.com
+[INFO ] [2021-11-29 01:18:29,365] TC_06_Customers: Step 17: Select item in day dropdown with value: 25
+[INFO ] [2021-11-29 01:18:29,464] TC_07_Customers: Step 10: Select item in state dropdown with value: Other
+[INFO ] [2021-11-29 01:18:29,476] TC_07_Customers: Step 08: Enter customer's company with value: Hammes, Gusikowski and Fadel
+[INFO ] [2021-11-29 01:18:29,616] TC_07_Customers: Step 09: Select item in country dropdown with value: Viet Nam
+[INFO ] [2021-11-29 01:18:31,624] TC_06_Customers: Step 18: Enter company with value: Johnson, Nader and Roberts
+[INFO ] [2021-11-29 01:18:31,685] TC_07_Customers: Step 10: Select item in state dropdown with value: Other
+[INFO ] [2021-11-29 01:18:31,687] TC_06_Customers: Step 19: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:31,950] TC_06_Customers: Step 20: Select item in Roles dropdown with value: Guests
+[INFO ] [2021-11-29 01:18:31,962]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:33,512] TC_07_Customers: Step 11: Enter customer's city with value: South Alecburgh
+[INFO ] [2021-11-29 01:18:33,637] TC_07_Customers: Step 12: Enter customer's address 01 with value: Apt. 963 01083 Treva Squares, Dibbertmouth, MT 44944-5521
+[INFO ] [2021-11-29 01:18:33,853] TC_07_Customers: Step 13: Enter customer's address 01 with value: Apt. 776 53778 Deckow Mall, Lindton, NC 18892
+[INFO ] [2021-11-29 01:18:34,063] TC_07_Customers: Step 14: Enter customer's Zip code with value: BA
+[INFO ] [2021-11-29 01:18:34,169] TC_07_Customers: Step 15: Enter customer's phone number with value: 292-072-7043
+[INFO ] [2021-11-29 01:18:34,288] TC_07_Customers: Step 16: Enter customer's fax number with value: (595) 740-4695 x577
+[INFO ] [2021-11-29 01:18:34,303] TC_06_Customers: Step 21: Click to Search Button
+[INFO ] [2021-11-29 01:18:34,413] TC_07_Customers: Step 17: Click to Save Button
+[INFO ] [2021-11-29 01:18:34,553] TC_06_Customers: Step 22: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:35,074]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:35,103]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:35,105] ------------ TC_07_Add_New_Address_In_Customer_Detail ------------
+[INFO ] [2021-11-29 01:18:35,105] TC_07_Customers: Step 01: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:35,695] TC_07_Customers: Step 18: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:18:35,717]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:35,743] TC_07_Customers: Step 02: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:35,761]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:35,761] TC_07_Customers: Step 19: Click To close alert bar
+[INFO ] [2021-11-29 01:18:35,773] TC_07_Customers: Step 11: Enter customer's city with value: Port Malikshire
+[INFO ] [2021-11-29 01:18:35,987] TC_07_Customers: Step 12: Enter customer's address 01 with value: 5815 Devin Fords, Port Galenside, IN 95401
+[INFO ] [2021-11-29 01:18:36,006] TC_07_Customers: Step 20: Click To back to customer details link
+[INFO ] [2021-11-29 01:18:36,153] TC_07_Customers: Step 13: Enter customer's address 01 with value: 6348 Tyson Mountain, Shustad, ND 27223
+[INFO ] [2021-11-29 01:18:36,301] TC_07_Customers: Step 14: Enter customer's Zip code with value: KR
+[INFO ] [2021-11-29 01:18:36,409] TC_07_Customers: Step 15: Enter customer's phone number with value: (815) 128-2851
+[INFO ] [2021-11-29 01:18:36,610] TC_07_Customers: Step 16: Enter customer's fax number with value: 891-551-9227
+[INFO ] [2021-11-29 01:18:36,766] TC_07_Customers: Step 17: Click to Save Button
+[INFO ] [2021-11-29 01:18:36,777] TC_07_Customers: Step 21: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:37,856]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:37,924]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:37,933]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:37,933] TC_07_Customers: Step 22: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:37,943]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:37,968]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:37,968] TC_07_Customers: Step 03: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:37,992] TC_07_Customers: Step 18: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:18:38,001] TC_07_Customers: Step 23: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:18:38,014]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,024]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,037]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,037] TC_07_Customers: Step 04: Click To Add new address button
+[INFO ] [2021-11-29 01:18:38,094]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,094] TC_07_Customers: Step 19: Click To close alert bar
+[INFO ] [2021-11-29 01:18:38,115] TC_07_Customers: Step 05: Enter customer's firstname with value: Filomena
+[INFO ] [2021-11-29 01:18:38,180]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,192] TC_07_Customers: Step 20: Click To back to customer details link
+[INFO ] [2021-11-29 01:18:38,293]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,352]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,426]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,496]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,538]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:38,539] ------------ TC_08_Edit_Address_In_Customer_Detail ------------
+[INFO ] [2021-11-29 01:18:38,539] TC_08_Customers - Step 01: Open menu Customers/Customers
+[INFO ] [2021-11-29 01:18:38,550]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:39,144] TC_07_Customers: Step 21: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:39,871]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:39,926]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:39,926] TC_07_Customers: Step 22: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:39,934]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:39,983] TC_07_Customers: Step 23: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:18:39,991]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,043]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,095]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,107]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,108] TC_08_Customers: Step 02: Expand search panel
+[INFO ] [2021-11-29 01:18:40,149]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,161] TC_08_Customers: Step 03: Enter firstname with value: Hershel
+[INFO ] [2021-11-29 01:18:40,169] TC_07_Customers: Step 06: Enter customer's lastname with value: Carter
+[INFO ] [2021-11-29 01:18:40,215]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,227] TC_07_Customers: Step 07: Enter customer's email with value: irving.emard@yahoo.com
+[INFO ] [2021-11-29 01:18:40,287]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,297] TC_08_Customers: Step 04: Enter lastname with value: Zieme
+[INFO ] [2021-11-29 01:18:40,297] TC_07_Customers: Step 08: Enter customer's company with value: Rosenbaum, Conroy and Hessel
+[INFO ] [2021-11-29 01:18:40,334]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,336] ------------ TC_08_Edit_Address_In_Customer_Detail ------------
+[INFO ] [2021-11-29 01:18:40,336] TC_08_Customers - Step 01: Open menu Customers/Customers
+[INFO ] [2021-11-29 01:18:40,355]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:40,367] TC_07_Customers: Step 09: Select item in country dropdown with value: Viet Nam
+[INFO ] [2021-11-29 01:18:40,426] TC_08_Customers: Step 05: Select item in month dropdown with value: 12
+[INFO ] [2021-11-29 01:18:41,771]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:41,772] TC_08_Customers: Step 02: Expand search panel
+[INFO ] [2021-11-29 01:18:41,823] TC_08_Customers: Step 03: Enter firstname with value: Frederick
+[INFO ] [2021-11-29 01:18:41,925] TC_08_Customers: Step 04: Enter lastname with value: Wiegand
+[INFO ] [2021-11-29 01:18:42,023] TC_08_Customers: Step 05: Select item in month dropdown with value: 12
+[INFO ] [2021-11-29 01:18:42,496] TC_08_Customers: Step 06: Select item in day dropdown with value: 25
+[INFO ] [2021-11-29 01:18:42,618] TC_07_Customers: Step 10: Select item in state dropdown with value: Other
+[INFO ] [2021-11-29 01:18:44,085] TC_08_Customers: Step 06: Select item in day dropdown with value: 25
+[INFO ] [2021-11-29 01:18:44,736] TC_08_Customers: Step 07: Enter company with value: Reilly-Sporer
+[INFO ] [2021-11-29 01:18:44,853] TC_08_Customers: Step 08: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:44,946] TC_08_Customers: Step 09: Click to Search Button
+[INFO ] [2021-11-29 01:18:45,019] TC_08_Customers: Step 10: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:45,537]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:45,568]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:45,568] TC_08_Customers: Step 11: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:46,150] TC_08_Customers: Step 07: Enter company with value: Parisian-Johns
+[INFO ] [2021-11-29 01:18:46,339] TC_08_Customers: Step 08: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:46,445] TC_08_Customers: Step 09: Click to Search Button
+[INFO ] [2021-11-29 01:18:46,514] TC_08_Customers: Step 12: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:46,573] TC_08_Customers: Step 10: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:46,656] TC_07_Customers: Step 11: Enter customer's city with value: New Zackfurt
+[INFO ] [2021-11-29 01:18:46,737] TC_07_Customers: Step 12: Enter customer's address 01 with value: 724 Greenholt Brooks, Conniefurt, NE 74641
+[INFO ] [2021-11-29 01:18:46,819] TC_07_Customers: Step 13: Enter customer's address 01 with value: Apt. 252 06172 Carter Vista, Torpside, KS 21587-8142
+[INFO ] [2021-11-29 01:18:46,909] TC_07_Customers: Step 14: Enter customer's Zip code with value: TN
+[INFO ] [2021-11-29 01:18:46,960] TC_07_Customers: Step 15: Enter customer's phone number with value: 1-829-404-5540
+[INFO ] [2021-11-29 01:18:47,021] TC_07_Customers: Step 16: Enter customer's fax number with value: 305.892.3230 x1160
+[INFO ] [2021-11-29 01:18:47,081] TC_07_Customers: Step 17: Click to Save Button
+[INFO ] [2021-11-29 01:18:47,091]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:47,119]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:47,119] TC_08_Customers: Step 11: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:47,150] TC_07_Customers: Step 18: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:18:47,193]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:47,505]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:47,577]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:47,578] TC_08_Customers: Step 13: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:47,627] TC_08_Customers: Step 14: Click To edit button in table
+[INFO ] [2021-11-29 01:18:47,641]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:48,047]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:48,047] TC_07_Customers: Step 19: Click To close alert bar
+[INFO ] [2021-11-29 01:18:48,059] TC_08_Customers: Step 12: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:48,785] TC_07_Customers: Step 20: Click To back to customer details link
+[INFO ] [2021-11-29 01:18:49,359]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:49,411]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:49,411] TC_08_Customers: Step 13: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:49,459] TC_08_Customers: Step 14: Click To edit button in table
+[INFO ] [2021-11-29 01:18:49,468]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:50,067] TC_07_Customers: Step 21: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:50,758] TC_08_Customers: Step 15: Enter customer's firstname with value: Hershel
+[INFO ] [2021-11-29 01:18:50,885] TC_08_Customers: Step 16: Enter customer's lastname with value: Zieme
+[INFO ] [2021-11-29 01:18:51,003] TC_08_Customers: Step 17: Enter customer's email with value: hector.buckridge@yahoo.com
+[INFO ] [2021-11-29 01:18:51,140]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,144] TC_08_Customers: Step 18: Enter customer's company with value: Reilly-Sporer
+[INFO ] [2021-11-29 01:18:51,180]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,180] TC_07_Customers: Step 22: Expand Customer info panel
+[INFO ] [2021-11-29 01:18:51,189]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,227] TC_07_Customers: Step 23: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:18:51,236]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,271] TC_08_Customers: Step 19: Select item in country dropdown with value: United States
+[INFO ] [2021-11-29 01:18:51,280]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,368]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,414]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,450]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,486]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,517]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,518] ------------ TC_08_Edit_Address_In_Customer_Detail ------------
+[INFO ] [2021-11-29 01:18:51,518] TC_08_Customers - Step 01: Open menu Customers/Customers
+[INFO ] [2021-11-29 01:18:51,531]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,580]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:51,580] TC_08_Customers: Step 02: Expand search panel
+[INFO ] [2021-11-29 01:18:52,135] TC_08_Customers: Step 03: Enter firstname with value: Roderick
+[INFO ] [2021-11-29 01:18:52,172] TC_08_Customers: Step 04: Enter lastname with value: Mohr
+[INFO ] [2021-11-29 01:18:52,211] TC_08_Customers: Step 05: Select item in month dropdown with value: 12
+[INFO ] [2021-11-29 01:18:52,346] TC_08_Customers: Step 15: Enter customer's firstname with value: Frederick
+[INFO ] [2021-11-29 01:18:52,468] TC_08_Customers: Step 16: Enter customer's lastname with value: Wiegand
+[INFO ] [2021-11-29 01:18:52,589] TC_08_Customers: Step 17: Enter customer's email with value: yuette.bernier@hotmail.com
+[INFO ] [2021-11-29 01:18:52,738] TC_08_Customers: Step 18: Enter customer's company with value: Parisian-Johns
+[INFO ] [2021-11-29 01:18:52,866] TC_08_Customers: Step 19: Select item in country dropdown with value: United States
+[INFO ] [2021-11-29 01:18:54,448] TC_08_Customers: Step 06: Select item in day dropdown with value: 25
+[INFO ] [2021-11-29 01:18:56,545] TC_08_Customers: Step 20: Select item in state dropdown with value: California
+[INFO ] [2021-11-29 01:18:56,557]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:56,703] TC_08_Customers: Step 07: Enter company with value: Johnson, Nader and Roberts
+[INFO ] [2021-11-29 01:18:56,769] TC_08_Customers: Step 08: Delete item is selected in Roles dropdown
+[INFO ] [2021-11-29 01:18:57,034] TC_08_Customers: Step 09: Click to Search Button
+[INFO ] [2021-11-29 01:18:57,282] TC_08_Customers: Step 10: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:18:57,806]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:57,834]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:57,834] TC_08_Customers: Step 11: Click To Edit Customer button
+[INFO ] [2021-11-29 01:18:57,931] TC_08_Customers: Step 20: Select item in state dropdown with value: California
+[INFO ] [2021-11-29 01:18:57,940]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:18:58,441] TC_08_Customers: Step 12: Verify requested page is displayed
+[INFO ] [2021-11-29 01:18:58,623] TC_08_Customers: Step 21: Enter customer's city with value: West Nevilleshire
+[INFO ] [2021-11-29 01:18:58,758] TC_08_Customers: Step 22: Enter customer's address 01 with value: Apt. 526 17500 Freddie Island, Cormierbury, AL 73158-9852
+[INFO ] [2021-11-29 01:18:58,933] TC_08_Customers: Step 23: Enter customer's address 01 with value: 059 Austin Centers, Abbiefurt, MN 01495-8782
+[INFO ] [2021-11-29 01:18:59,103] TC_08_Customers: Step 24: Enter customer's Zip code with value: ME
+[INFO ] [2021-11-29 01:18:59,217] TC_08_Customers: Step 25: Enter customer's phone number with value: 921-024-4058
+[INFO ] [2021-11-29 01:18:59,404] TC_08_Customers: Step 26: Enter customer's fax number with value: 532.644.3915 x981
+[INFO ] [2021-11-29 01:18:59,542] TC_08_Customers: Step 27: Click to Save Button
+[INFO ] [2021-11-29 01:19:00,013] TC_08_Customers: Step 21: Enter customer's city with value: Kristoferfort
+[INFO ] [2021-11-29 01:19:00,156] TC_08_Customers: Step 22: Enter customer's address 01 with value: 427 Etha Ville, East Violeta, MD 04462-1939
+[INFO ] [2021-11-29 01:19:00,325] TC_08_Customers: Step 23: Enter customer's address 01 with value: Apt. 652 167 Darlene Extensions, Hintzbury, AZ 02089-2743
+[INFO ] [2021-11-29 01:19:00,511] TC_08_Customers: Step 24: Enter customer's Zip code with value: MC
+[INFO ] [2021-11-29 01:19:00,626]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:00,683]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:00,683] TC_08_Customers: Step 13: Expand Customer info panel
+[INFO ] [2021-11-29 01:19:00,726] TC_08_Customers: Step 25: Enter customer's phone number with value: 1-319-663-9535
+[INFO ] [2021-11-29 01:19:00,730] TC_08_Customers: Step 14: Click To edit button in table
+[INFO ] [2021-11-29 01:19:00,743]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:00,918] TC_08_Customers: Step 26: Enter customer's fax number with value: 1-086-367-7559
+[INFO ] [2021-11-29 01:19:01,056] TC_08_Customers: Step 27: Click to Save Button
+[INFO ] [2021-11-29 01:19:01,258] TC_08_Customers: Step 28: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:19:01,330]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:01,330] TC_08_Customers: Step 29: Click To close alert bar
+[INFO ] [2021-11-29 01:19:01,402] TC_08_Customers: Step 30: Click To back to customer details link
+[INFO ] [2021-11-29 01:19:02,172] TC_08_Customers: Step 31: Verify requested page is displayed
+[INFO ] [2021-11-29 01:19:02,319] TC_08_Customers: Step 28: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:19:02,370]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:02,370] TC_08_Customers: Step 29: Click To close alert bar
+[INFO ] [2021-11-29 01:19:02,445] TC_08_Customers: Step 30: Click To back to customer details link
+[INFO ] [2021-11-29 01:19:03,193]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:03,253]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:03,254] TC_08_Customers: Step 32: Expand Customer info panel
+[INFO ] [2021-11-29 01:19:03,330] TC_08_Customers: Step 15: Enter customer's firstname with value: Roderick
+[INFO ] [2021-11-29 01:19:03,393] TC_08_Customers: Step 16: Enter customer's lastname with value: Mohr
+[INFO ] [2021-11-29 01:19:03,451] TC_08_Customers: Step 17: Enter customer's email with value: herb.bosco@gmail.com
+[INFO ] [2021-11-29 01:19:03,513] TC_08_Customers: Step 18: Enter customer's company with value: Johnson, Nader and Roberts
+[INFO ] [2021-11-29 01:19:03,582] TC_08_Customers: Step 19: Select item in country dropdown with value: United States
+[INFO ] [2021-11-29 01:19:03,595] TC_08_Customers: Step 31: Verify requested page is displayed
+[INFO ] [2021-11-29 01:19:04,161]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:04,214]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:04,214] TC_08_Customers: Step 32: Expand Customer info panel
+[INFO ] [2021-11-29 01:19:06,313] TC_08_Customers: Step 33: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:19:06,326]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,383]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,493]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,707]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,768]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,822]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,866]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:06,867] Post-Condition: Close browser 'CHROME'
+[INFO ] [2021-11-29 01:19:06,867] OS name = mac os x
+[INFO ] [2021-11-29 01:19:06,867] Driver instance name = mac os x
+[INFO ] [2021-11-29 01:19:07,076] Pre-Condition - Step 01: Open browser 'CHROME' and nagivate to 'https://admin-demo.nopcommerce.com'
+[INFO ] [2021-11-29 01:19:07,268] TC_08_Customers: Step 33: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:19:07,279]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,362]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,417]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,471]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,528]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,583]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,622]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:07,624] Post-Condition: Close browser 'EDGE_CHROMIUM'
+[INFO ] [2021-11-29 01:19:07,624] OS name = mac os x
+[INFO ] [2021-11-29 01:19:07,624] Driver instance name = mac os x
+[INFO ] [2021-11-29 01:19:08,822] Pre-Condition - Step 01: Open browser 'EDGE_CHROMIUM' and nagivate to 'https://admin-demo.nopcommerce.com'
+[INFO ] [2021-11-29 01:19:08,834] TC_08_Customers: Step 20: Select item in state dropdown with value: California
+[INFO ] [2021-11-29 01:19:08,855]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:11,138] TC_08_Customers: Step 21: Enter customer's city with value: Lake Von
+[INFO ] [2021-11-29 01:19:11,208] TC_08_Customers: Step 22: Enter customer's address 01 with value: Suite 317 39879 Reinger Meadow, Kassulkechester, IA 96279
+[INFO ] [2021-11-29 01:19:11,303] TC_08_Customers: Step 23: Enter customer's address 01 with value: Apt. 824 112 Gerhold Pines, Port Diegoburgh, CA 09065
+[INFO ] [2021-11-29 01:19:11,392] TC_08_Customers: Step 24: Enter customer's Zip code with value: PH
+[INFO ] [2021-11-29 01:19:11,439] TC_08_Customers: Step 25: Enter customer's phone number with value: (690) 054-3652
+[INFO ] [2021-11-29 01:19:11,496] TC_08_Customers: Step 26: Enter customer's fax number with value: (628) 534-1555 x03048
+[INFO ] [2021-11-29 01:19:11,559] TC_08_Customers: Step 27: Click to Save Button
+[INFO ] [2021-11-29 01:19:12,087] Pre-Condition - Step 01: Enter email To Email textbox
+[INFO ] [2021-11-29 01:19:12,248] Pre-Condition - Step 02: Enter password To Password textbox
+[INFO ] [2021-11-29 01:19:12,361] Pre-Condition - Step 03: Click to Log in button
+[INFO ] [2021-11-29 01:19:13,021] TC_08_Customers: Step 28: Verify Success Alert Dispalyed
+[INFO ] [2021-11-29 01:19:13,098]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:13,098] TC_08_Customers: Step 29: Click To close alert bar
+[INFO ] [2021-11-29 01:19:13,399] Pre-Condition - Step 01: Enter email To Email textbox
+[INFO ] [2021-11-29 01:19:13,558] Pre-Condition - Step 02: Enter password To Password textbox
+[INFO ] [2021-11-29 01:19:13,672] Pre-Condition - Step 03: Click to Log in button
+[INFO ] [2021-11-29 01:19:13,831] TC_08_Customers: Step 30: Click To back to customer details link
+[INFO ] [2021-11-29 01:19:14,434] TC_08_Customers: Step 31: Verify requested page is displayed
+[INFO ] [2021-11-29 01:19:16,556]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:16,571] Pre-Condition - Step 04: Open menu Catalog/Products
+[INFO ] [2021-11-29 01:19:16,604]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:16,605] TC_08_Customers: Step 32: Expand Customer info panel
+[INFO ] [2021-11-29 01:19:17,608]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:18,024] Pre-Condition - Step 04: Open menu Catalog/Products
+[INFO ] [2021-11-29 01:19:18,820] Pre-Condition - Step 05: Verify Product Search Page is displayed
+[INFO ] [2021-11-29 01:19:18,886]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:18,887] ------------ TC_01_Search_With_Product_Name ------------
+[INFO ] [2021-11-29 01:19:18,887] TC_01_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:18,927] TC_01_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:19,059]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,661] TC_08_Customers: Step 33: Verify recently addedd customer's information is Dispalyed
+[INFO ] [2021-11-29 01:19:19,673]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,715]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,750]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,787]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,833]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,868]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,900]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:19,901] Post-Condition: Close browser 'FIREFOX'
+[INFO ] [2021-11-29 01:19:19,901] OS name = mac os x
+[INFO ] [2021-11-29 01:19:19,901] Driver instance name = mac os x
+[INFO ] [2021-11-29 01:19:20,080] Pre-Condition - Step 05: Verify Product Search Page is displayed
+[INFO ] [2021-11-29 01:19:20,160]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:20,161] ------------ TC_01_Search_With_Product_Name ------------
+[INFO ] [2021-11-29 01:19:20,162] TC_01_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:20,197] TC_01_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:20,717]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:20,882] TC_01_Admin: Step 03: Click to Search Button
+[INFO ] [2021-11-29 01:19:20,893] Pre-Condition - Step 01: Open browser 'FIREFOX' and nagivate to 'https://admin-demo.nopcommerce.com'
+[INFO ] [2021-11-29 01:19:20,978] TC_01_Admin: Step 04: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:20,981]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:21,206] TC_01_Admin: Step 03: Click to Search Button
+[INFO ] [2021-11-29 01:19:21,307] TC_01_Admin: Step 04: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:21,506]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:21,560]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:21,562] ------------ TC_02_Search_With_Product_Name_And_Category_And_Unchecked ------------
+[INFO ] [2021-11-29 01:19:21,837]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:21,866]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:21,868] ------------ TC_02_Search_With_Product_Name_And_Category_And_Unchecked ------------
+[INFO ] [2021-11-29 01:19:23,453]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:23,453] TC_02_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:23,499] TC_02_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:23,665] TC_02_Admin: Step 03: Select item in Category dropdown with value: Computers
+[INFO ] [2021-11-29 01:19:23,942]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:23,942] TC_02_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:23,975] TC_02_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:24,127] TC_02_Admin: Step 03: Select item in Category dropdown with value: Computers
+[INFO ] [2021-11-29 01:19:24,879] Pre-Condition - Step 01: Enter email To Email textbox
+[INFO ] [2021-11-29 01:19:24,953] Pre-Condition - Step 02: Enter password To Password textbox
+[INFO ] [2021-11-29 01:19:25,015] Pre-Condition - Step 03: Click to Log in button
+[INFO ] [2021-11-29 01:19:25,735] TC_02_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:25,780] TC_02_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:25,863] TC_02_Admin: Step 06: Verify no data available in table
+[INFO ] [2021-11-29 01:19:26,200] TC_02_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:26,246] TC_02_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:26,340] TC_02_Admin: Step 06: Verify no data available in table
+[INFO ] [2021-11-29 01:19:26,383]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:26,422]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:26,424] ------------ TC_03_Search_With_Product_Name_And_Category_And_Checked ------------
+[INFO ] [2021-11-29 01:19:26,864]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:26,909]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:26,911] ------------ TC_03_Search_With_Product_Name_And_Category_And_Checked ------------
+[INFO ] [2021-11-29 01:19:26,984] Pre-Condition - Step 04: Open menu Catalog/Products
+[INFO ] [2021-11-29 01:19:28,058]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:28,152] Pre-Condition - Step 05: Verify Product Search Page is displayed
+[INFO ] [2021-11-29 01:19:28,320]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:28,320] TC_03_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:28,355] TC_03_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:28,535] TC_03_Admin: Step 03: Select item in Category dropdown with value: Computers
+[INFO ] [2021-11-29 01:19:28,691]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:28,693] ------------ TC_01_Search_With_Product_Name ------------
+[INFO ] [2021-11-29 01:19:28,693] TC_01_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:28,814] TC_01_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:29,422]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:29,423] TC_03_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:29,463] TC_03_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:29,626] TC_03_Admin: Step 03: Select item in Category dropdown with value: Computers
+[INFO ] [2021-11-29 01:19:29,861]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:29,960] TC_01_Admin: Step 03: Click to Search Button
+[INFO ] [2021-11-29 01:19:30,224] TC_01_Admin: Step 04: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:30,600] TC_03_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:30,703] TC_03_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:30,748]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:30,773]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:30,774] ------------ TC_02_Search_With_Product_Name_And_Category_And_Unchecked ------------
+[INFO ] [2021-11-29 01:19:30,791] TC_03_Admin: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:31,311]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:31,341]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:31,343] ------------ TC_04_Search_With_Product_Name_And_Child_Category ------------
+[INFO ] [2021-11-29 01:19:31,702] TC_03_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:31,829] TC_03_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:31,921] TC_03_Admin: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:32,442]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:32,471]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:32,472] ------------ TC_04_Search_With_Product_Name_And_Child_Category ------------
+[INFO ] [2021-11-29 01:19:33,829]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:33,829] TC_04_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:33,878] TC_04_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:34,041] TC_04_Admin: Step 03: Select item in Category dropdown with value: Computers >> Desktops
+[INFO ] [2021-11-29 01:19:34,225]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:34,226] TC_02_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:34,260] TC_02_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:34,346] TC_02_Admin: Step 03: Select item in Category dropdown with value: Computers
+[INFO ] [2021-11-29 01:19:35,140]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:35,140] TC_04_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:35,176] TC_04_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:35,326] TC_04_Admin: Step 03: Select item in Category dropdown with value: Computers >> Desktops
+[INFO ] [2021-11-29 01:19:36,134] TC_04_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:36,174] TC_04_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:36,253] TC_04_Admin: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:36,602] TC_02_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:36,634] TC_02_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:36,776]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:36,803]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:36,804] ------------ TC_05_Search_With_Product_Name_And_Manufacturer ------------
+[INFO ] [2021-11-29 01:19:36,895] TC_02_Admin: Step 06: Verify no data available in table
+[INFO ] [2021-11-29 01:19:37,411] TC_04_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:37,415]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:37,452] TC_04_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:37,456]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:37,457] ------------ TC_03_Search_With_Product_Name_And_Category_And_Checked ------------
+[INFO ] [2021-11-29 01:19:37,531] TC_04_Admin: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:38,049]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:38,075]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:38,076] ------------ TC_05_Search_With_Product_Name_And_Manufacturer ------------
+[INFO ] [2021-11-29 01:19:38,673]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:38,673] TC_05_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:38,708] TC_05_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:38,872] TC_05_Admin: Step 03: Select item in Category dropdown with value: All
+[INFO ] [2021-11-29 01:19:40,031]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:40,031] TC_05_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:40,070] TC_05_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:40,225] TC_05_Admin: Step 03: Select item in Category dropdown with value: All
+[INFO ] [2021-11-29 01:19:40,904] TC_05_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:40,950] TC_05_Admin: Step 05: Select item in Manufacturer dropdown with value: Apple
+[INFO ] [2021-11-29 01:19:41,812]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:41,812] TC_03_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:41,846] TC_03_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:41,929] TC_03_Admin: Step 03: Select item in Category dropdown with value: Computers
+[INFO ] [2021-11-29 01:19:42,266] TC_05_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:42,306] TC_05_Admin: Step 05: Select item in Manufacturer dropdown with value: Apple
+[INFO ] [2021-11-29 01:19:43,018] TC_05_Admin: Step 06: Click to Search Button
+[INFO ] [2021-11-29 01:19:43,098] TC_05_Admin: Step 07: Verify no data available in table
+[INFO ] [2021-11-29 01:19:43,615]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:43,656]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:43,657] ------------ TC_06_Go_Directly_To_Product_By_SKU ------------
+[INFO ] [2021-11-29 01:19:44,181] TC_03_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:44,434] TC_05_Admin: Step 06: Click to Search Button
+[INFO ] [2021-11-29 01:19:44,438] TC_03_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:44,576] TC_05_Admin: Step 07: Verify no data available in table
+[INFO ] [2021-11-29 01:19:44,728] TC_03_Admin: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:45,096]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:45,143]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:45,144] ------------ TC_06_Go_Directly_To_Product_By_SKU ------------
+[INFO ] [2021-11-29 01:19:45,247]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:45,273]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:45,274] ------------ TC_04_Search_With_Product_Name_And_Child_Category ------------
+[INFO ] [2021-11-29 01:19:45,581]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:45,582] TC_06_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:45,632] TC_06_Admin: Step 02: Click Edit button by SKU: LE_IC_600
+[INFO ] [2021-11-29 01:19:47,028]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:47,028] TC_06_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:47,062] TC_06_Admin: Step 02: Click Edit button by SKU: LE_IC_600
+[INFO ] [2021-11-29 01:19:48,366] TC_06_Admin: Step 03: Expand Product info panel
+[INFO ] [2021-11-29 01:19:48,449] TC_06_Admin: Step 04: Verify Product name is displayed
+[INFO ] [2021-11-29 01:19:48,460]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:48,504]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:48,505] Post-Condition: Close browser 'EDGE_CHROMIUM'
+[INFO ] [2021-11-29 01:19:48,505] OS name = mac os x
+[INFO ] [2021-11-29 01:19:48,505] Driver instance name = mac os x
+[INFO ] [2021-11-29 01:19:49,697]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:49,698] TC_04_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:49,728] TC_04_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:49,830] TC_04_Admin: Step 03: Select item in Category dropdown with value: Computers >> Desktops
+[INFO ] [2021-11-29 01:19:51,706] TC_06_Admin: Step 03: Expand Product info panel
+[INFO ] [2021-11-29 01:19:51,825] TC_06_Admin: Step 04: Verify Product name is displayed
+[INFO ] [2021-11-29 01:19:51,835]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:51,887]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:51,888] Post-Condition: Close browser 'CHROME'
+[INFO ] [2021-11-29 01:19:51,888] OS name = mac os x
+[INFO ] [2021-11-29 01:19:51,888] Driver instance name = mac os x
+[INFO ] [2021-11-29 01:19:52,078] TC_04_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:19:52,108] TC_04_Admin: Step 05: Click to Search Button
+[INFO ] [2021-11-29 01:19:52,362] TC_04_Admin: Step 06: Verify only 1 item is displayed
+[INFO ] [2021-11-29 01:19:53,389]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:53,413]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:53,414] ------------ TC_05_Search_With_Product_Name_And_Manufacturer ------------
+[INFO ] [2021-11-29 01:19:57,845]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:19:57,846] TC_05_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:19:57,880] TC_05_Admin: Step 02: Search product name with value: Lenovo IdeaCentre 600 All-in-One PC
+[INFO ] [2021-11-29 01:19:57,971] TC_05_Admin: Step 03: Select item in Category dropdown with value: All
+[INFO ] [2021-11-29 01:19:59,992] TC_05_Admin: Step 04: Click to Search subcategories radio button
+[INFO ] [2021-11-29 01:20:00,026] TC_05_Admin: Step 05: Select item in Manufacturer dropdown with value: Apple
+[INFO ] [2021-11-29 01:20:02,276] TC_05_Admin: Step 06: Click to Search Button
+[INFO ] [2021-11-29 01:20:02,547] TC_05_Admin: Step 07: Verify no data available in table
+[INFO ] [2021-11-29 01:20:03,582]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:20:03,623]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:20:03,624] ------------ TC_06_Go_Directly_To_Product_By_SKU ------------
+[INFO ] [2021-11-29 01:20:06,548]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:20:06,548] TC_06_Admin: Step 01: Expand Search panel
+[INFO ] [2021-11-29 01:20:06,582] TC_06_Admin: Step 02: Click Edit button by SKU: LE_IC_600
+[INFO ] [2021-11-29 01:20:07,509] TC_06_Admin: Step 03: Expand Product info panel
+[INFO ] [2021-11-29 01:20:07,626] TC_06_Admin: Step 04: Verify Product name is displayed
+[INFO ] [2021-11-29 01:20:09,754]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:20:09,793]  -------------------------- PASSED ----------------------- 
+[INFO ] [2021-11-29 01:20:09,794] Post-Condition: Close browser 'FIREFOX'
+[INFO ] [2021-11-29 01:20:09,794] OS name = mac os x
+[INFO ] [2021-11-29 01:20:09,794] Driver instance name = mac os x
